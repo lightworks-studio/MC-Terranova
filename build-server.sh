@@ -12,12 +12,13 @@ cd pack_server
 
 # Some optimization mods would either be un-needed on the client or are not hosted on modrinth and therefore cause issues
 
-#Chunk loading
-packwiz curseforge add c2me -y
-packwiz curseforge add zfastnoise -y
+#Chunk optimizations and improvements (DH + C2ME HAVE CAUSED ISSUES IN THE PAST!)
+#packwiz curseforge add c2me -y
+#packwiz curseforge add zfastnoise -y
+#packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save -y
+#packwiz modrinth add distanthorizons
 
-#networking
-packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save -y
+# Already added by client
 #packwiz curseforge add https://www.curseforge.com/minecraft/mc-mods/connectivity -y
 
 #item stack lag
@@ -25,9 +26,6 @@ packwiz curseforge add leaky -y
 
 #For disabling certain mobs (optional)
 packwiz modrinth add in-control -y
-
-#Distant horizons
-packwiz modrinth add distanthorizons
 
 # remove mods that would crash the server
 rm ./mods/fastquit-forge.pw.toml
