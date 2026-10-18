@@ -339,6 +339,18 @@ code {
   display: none;
 }
 
+.mod-grid li .mod-meta {
+  margin-top: 0.15rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.mod-grid li.mod-loading,
+.mod-grid li.mod-error {
+  color: var(--muted);
+  font-style: italic;
+}
+
 /* ---------- Footer ---------- */
 
 footer {

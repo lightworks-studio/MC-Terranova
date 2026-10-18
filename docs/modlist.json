@@ -1,0 +1,605 @@
+[
+    {
+        "authors": [
+            "CreativeMD",
+            "AriaFreeze"
+        ],
+        "name": "AmbientSounds",
+        "url": "https://modrinth.com/mod/fM515JnW",
+        "version": "6.3.9"
+    },
+    {
+        "authors": [
+            "squeek"
+        ],
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV",
+        "version": "3.0.9+mc1.21"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "13.0.11"
+    },
+    {
+        "authors": [
+            "Lightning323"
+        ],
+        "name": "Astral Armoury",
+        "url": "https://modrinth.com/mod/EBk3WIoF",
+        "version": "0.3.0"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Balm",
+        "url": "https://modrinth.com/mod/MBAkmtvl",
+        "version": "21.0.66"
+    },
+    {
+        "authors": [
+            "Darkhax"
+        ],
+        "name": "Bookshelf",
+        "url": "https://modrinth.com/mod/uy4Cnpcm",
+        "version": "21.1.81"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Cloth Config v15 API",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "15.0.140"
+    },
+    {
+        "authors": [
+            "djefrey"
+        ],
+        "name": "Colorwheel",
+        "url": "https://modrinth.com/mod/BzHgFoGz",
+        "version": "1.3.0+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Combat Nouveau",
+        "url": "https://modrinth.com/mod/Iv3kcKZn",
+        "version": "21.1.2"
+    },
+    {
+        "authors": [
+            "Someaddon"
+        ],
+        "name": "Connectivity Mod",
+        "url": "https://www.curseforge.com/projects/470193",
+        "version": "7.7"
+    },
+    {
+        "authors": [
+            "Jaredlll08"
+        ],
+        "name": "Controlling",
+        "url": "https://modrinth.com/mod/xv94TkTM",
+        "version": "19.0.5"
+    },
+    {
+        "authors": [
+            "simibubi"
+        ],
+        "name": "Create",
+        "url": "https://modrinth.com/mod/LNytGWDc",
+        "version": "6.0.10"
+    },
+    {
+        "authors": [
+            "Simulated Team"
+        ],
+        "name": "Create Aeronautics",
+        "url": "https://modrinth.com/mod/oWaK0Q19",
+        "version": "1.3.2"
+    },
+    {
+        "authors": [
+            "rbasamoyai"
+        ],
+        "name": "Create Big Cannons",
+        "url": "https://modrinth.com/mod/GWp4jCJj",
+        "version": "5.11.7"
+    },
+    {
+        "authors": [
+            "MRH0"
+        ],
+        "name": "Create Crafts & Additions",
+        "url": "https://modrinth.com/mod/kU1G12Nn",
+        "version": "1.7.2"
+    },
+    {
+        "authors": [
+            "George VI"
+        ],
+        "name": "Create Diesel Generators",
+        "url": "https://modrinth.com/mod/ZM3tt6p1",
+        "version": "1.21.1-1.3.15"
+    },
+    {
+        "authors": [
+            "Lightning323"
+        ],
+        "name": "Create Kinetic",
+        "version": "1.4.2"
+    },
+    {
+        "authors": [
+            "Lysine"
+        ],
+        "name": "Create: Connected",
+        "url": "https://modrinth.com/mod/Vg5TIO6d",
+        "version": "1.3.3-mc1.21.1"
+    },
+    {
+        "authors": [
+            "DragonsPlus"
+        ],
+        "name": "Create: Dragons Plus",
+        "url": "https://modrinth.com/mod/dzb1a5WV",
+        "version": "1.11.9"
+    },
+    {
+        "authors": [
+            "DragonsPlus"
+        ],
+        "name": "Create: Enchantment Industry",
+        "url": "https://modrinth.com/mod/JWGBpFUP",
+        "version": "2.5.4b"
+    },
+    {
+        "authors": [
+            "PoppyBlossom, Chameleon538, gblfxt"
+        ],
+        "name": "Create: Steam 'n' Rails 1.21.1",
+        "url": "https://modrinth.com/mod/L3Jv0QZI",
+        "version": "0.3.0-beta.2+neoforge-mc1.21.1"
+    },
+    {
+        "authors": [
+            "Lightning323"
+        ],
+        "name": "Creative Mode Tweaks",
+        "url": "https://modrinth.com/mod/fyecrpLB",
+        "version": "2.2.6"
+    },
+    {
+        "authors": [
+            "CreativeMD"
+        ],
+        "name": "CreativeCore",
+        "url": "https://modrinth.com/mod/OsZiaDHq",
+        "version": "2.13.51"
+    },
+    {
+        "authors": [
+            "Someaddon"
+        ],
+        "name": "Cupboard mod",
+        "url": "https://www.curseforge.com/projects/326652",
+        "version": "4.2"
+    },
+    {
+        "authors": [
+            "C4"
+        ],
+        "name": "Curios API",
+        "url": "https://modrinth.com/mod/vvuO3ImH",
+        "version": "9.5.1+1.21.1"
+    },
+    {
+        "authors": [
+            "Kyanite Team"
+        ],
+        "name": "Deeper and Darker",
+        "url": "https://modrinth.com/mod/fnAffV0n",
+        "version": "1.4.1"
+    },
+    {
+        "authors": [
+            "James Seibel",
+            "Leonardo Amato",
+            "Cola",
+            "coolGi",
+            "Ran",
+            "Leetom",
+            "pshsh",
+            "Karnatour"
+        ],
+        "name": "Distant Horizons",
+        "url": "https://modrinth.com/mod/uCdwusMi",
+        "version": "3.3.3"
+    },
+    {
+        "authors": [
+            "Yapetto, Ninni, possible_triangle"
+        ],
+        "name": "Dye Depot",
+        "url": "https://modrinth.com/mod/dl88rsIq",
+        "version": "2.1.2"
+    },
+    {
+        "authors": [
+            "possible_triangle"
+        ],
+        "name": "Dye The World!",
+        "url": "https://modrinth.com/mod/naUMeOvG",
+        "version": "2.5.0"
+    },
+    {
+        "authors": [
+            "Darkhax"
+        ],
+        "name": "EnchantmentDescriptions",
+        "url": "https://modrinth.com/mod/UVtY3ZAC",
+        "version": "21.1.11"
+    },
+    {
+        "authors": [
+            "Xel'Bayria, MehVahdJukaar, WenXin2"
+        ],
+        "name": "Every Compat",
+        "url": "https://modrinth.com/mod/eiktJyw1",
+        "version": "1.21-2.11.53"
+    },
+    {
+        "authors": [
+            "bre2el"
+        ],
+        "name": "FPS Reducer",
+        "url": "https://modrinth.com/mod/iZ10HXDj",
+        "version": "1.21-2.10"
+    },
+    {
+        "authors": [
+            "Rakambda"
+        ],
+        "name": "FallingTree",
+        "url": "https://modrinth.com/mod/Fb4jn8m6",
+        "version": "1.21.1.11"
+    },
+    {
+        "authors": [
+            "vectorwing"
+        ],
+        "name": "Farmer's Delight",
+        "url": "https://modrinth.com/mod/R2OftAxM",
+        "version": "1.3.4"
+    },
+    {
+        "authors": [
+            "Fallen_Breath"
+        ],
+        "name": "Fast IP Ping",
+        "url": "https://modrinth.com/mod/9mtu0sUO",
+        "version": "1.0.12"
+    },
+    {
+        "authors": [
+            "KingContaria, Kaleb Langley"
+        ],
+        "name": "Fastquit",
+        "url": "https://modrinth.com/mod/itFaO2Tg",
+        "version": "3.0.1+1.21neoforge"
+    },
+    {
+        "authors": [
+            "malte0811"
+        ],
+        "name": "Ferrite Core",
+        "url": "https://modrinth.com/mod/uXXizFIs",
+        "version": "7.0.3"
+    },
+    {
+        "authors": [
+            "SuperMartijn642"
+        ],
+        "name": "Fusion",
+        "url": "https://modrinth.com/mod/p19vrgc2",
+        "version": "1.3.16"
+    },
+    {
+        "authors": [
+            "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
+        ],
+        "name": "GeckoLib 4",
+        "url": "https://modrinth.com/mod/8BmcQJ2H",
+        "version": "4.9.3"
+    },
+    {
+        "name": "Immersive Portals: Aeronautics",
+        "url": "https://www.curseforge.com/projects/1735987",
+        "version": "9202511"
+    },
+    {
+        "authors": [
+            "coderbot, IMS212"
+        ],
+        "name": "Iris",
+        "url": "https://modrinth.com/mod/YL57xq9U",
+        "version": "1.8.14-beta.1+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Snownee"
+        ],
+        "name": "Jade",
+        "url": "https://modrinth.com/mod/nvQzSEkH",
+        "version": "15.10.6+neoforge"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ",
+        "version": "19.64.0.455"
+    },
+    {
+        "authors": [
+            "L_Ender"
+        ],
+        "name": "L_Ender's Cataclysm 1.21.1",
+        "url": "https://modrinth.com/mod/46KJle7n",
+        "version": "3.33"
+    },
+    {
+        "authors": [
+            "2No2Name, JellySquid"
+        ],
+        "name": "Lithium",
+        "url": "https://modrinth.com/mod/gvQqBUqZ",
+        "version": "0.15.4+mc1.21.1"
+    },
+    {
+        "authors": [
+            "embeddedt"
+        ],
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/nmDcB62a",
+        "version": "5.27.26+mc1.21.1"
+    },
+    {
+        "authors": [
+            "MehVahdJukaar"
+        ],
+        "name": "Moonlight Lib",
+        "url": "https://modrinth.com/mod/twkfQtEc",
+        "version": "1.21.1-3.7.2"
+    },
+    {
+        "authors": [
+            "Ivan Molodetskikh (YaLTeR)"
+        ],
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/aC3cM3Vq",
+        "version": "2.26.1"
+    },
+    {
+        "authors": [
+            "BobMowzie, Wadoo, Vakypanda, Noonyez, pau101"
+        ],
+        "name": "Mowzie's Mobs",
+        "url": "https://modrinth.com/mod/BFbX9xcm",
+        "version": "1.8.2"
+    },
+    {
+        "authors": [
+            "Lightning323"
+        ],
+        "name": "Neutron Tools",
+        "url": "https://modrinth.com/mod/bnr3uObB",
+        "version": "1.14.0"
+    },
+    {
+        "authors": [
+            "Aizistral"
+        ],
+        "name": "No Chat Reports",
+        "url": "https://modrinth.com/mod/qQyHxfxd",
+        "version": "1.21.1-v2.9.1"
+    },
+    {
+        "authors": [
+            "Redstonneur1256, lightning2401"
+        ],
+        "name": "Northstar Redux",
+        "url": "https://modrinth.com/mod/UZiq3QVW",
+        "version": "0.6.6+1.21.1"
+    },
+    {
+        "authors": [
+            "OctoStudios"
+        ],
+        "name": "Not Enough Recipe Book",
+        "url": "https://modrinth.com/mod/bQh7xzFq",
+        "version": "0.4.3"
+    },
+    {
+        "authors": [
+            "OctoStudios"
+        ],
+        "name": "OctoLib",
+        "url": "https://modrinth.com/mod/RH2KUdKJ",
+        "version": "0.6.2"
+    },
+    {
+        "authors": [
+            "Darkhax"
+        ],
+        "name": "PrickleMC",
+        "url": "https://modrinth.com/mod/aaRl8GiW",
+        "version": "21.1.11"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Puzzles Lib",
+        "url": "https://modrinth.com/mod/QAGBst4M",
+        "version": "21.1.64"
+    },
+    {
+        "authors": [
+            "Vazkii, WireSegal, MCVinnyq, Sully"
+        ],
+        "name": "Quark",
+        "url": "https://modrinth.com/mod/qnQsVE2z",
+        "version": "4.1-487"
+    },
+    {
+        "authors": [
+            "Vazkii, WireSegal, MCVinnyq, Sully"
+        ],
+        "name": "Quark Oddities",
+        "url": "https://modrinth.com/mod/qeEEslrN",
+        "version": "1.21.1"
+    },
+    {
+        "authors": [
+            "rbasamoyai"
+        ],
+        "name": "Ritchie's Projectile Library",
+        "url": "https://modrinth.com/mod/B3pb093D",
+        "version": "2.1.2"
+    },
+    {
+        "authors": [
+            "RyanHCode"
+        ],
+        "name": "Sable",
+        "url": "https://modrinth.com/mod/T9PomCSv",
+        "version": "2.0.6"
+    },
+    {
+        "authors": [
+            "Eve"
+        ],
+        "name": "Sable Sublevels on Xaero's Maps",
+        "url": "https://modrinth.com/mod/hqI03twF",
+        "version": "1.4.1"
+    },
+    {
+        "authors": [
+            "Jaredlll08"
+        ],
+        "name": "Searchables",
+        "url": "https://modrinth.com/mod/fuuu3xnx",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "Sathrek"
+        ],
+        "name": "Sky Archipelago",
+        "url": "https://modrinth.com/mod/sHFNUlBU",
+        "version": "1.3.6"
+    },
+    {
+        "authors": [
+            "JellySquid (jellysquid3), IMS212"
+        ],
+        "name": "Sodium",
+        "url": "https://modrinth.com/mod/AANobbMI",
+        "version": "0.8.13+mc1.21.1"
+    },
+    {
+        "authors": [
+            "MehVahdJukaar, Plantkillable"
+        ],
+        "name": "Supplementaries",
+        "url": "https://modrinth.com/mod/fFEIiSDQ",
+        "version": "1.21.1-4.0.2"
+    },
+    {
+        "name": "Terranova Content",
+        "version": "1.1.0"
+    },
+    {
+        "authors": [
+            "AlphaMode, baguchi, bconlon, Blodhgarm, Burning Cactus, Drullkus, Hugo Payn, Jaryt, Katie 'Oz' Payn, quek, Raptor, reetam, RENREN, sunsette"
+        ],
+        "name": "The Aether",
+        "url": "https://modrinth.com/mod/YhmgMVyu",
+        "version": "1.5.10"
+    },
+    {
+        "authors": [
+            "Max Henkel"
+        ],
+        "name": "Trade Cycling",
+        "url": "https://modrinth.com/mod/qpPoAL6m",
+        "version": "1.21.1-1.0.23"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Waystones",
+        "url": "https://modrinth.com/mod/LOpKHB2A",
+        "version": "21.1.46"
+    },
+    {
+        "authors": [
+            "xaero96"
+        ],
+        "name": "Xaero's Minimap",
+        "url": "https://modrinth.com/mod/1bokaNcj",
+        "version": "26.6.0"
+    },
+    {
+        "authors": [
+            "xaero96"
+        ],
+        "name": "Xaero's World Map",
+        "url": "https://modrinth.com/mod/NcUtCpym",
+        "version": "1.47.0"
+    },
+    {
+        "authors": [
+            "Vazkii, quat, IThundxr, Siuol, wiresegal, MehVahdJukaar"
+        ],
+        "name": "Zeta",
+        "url": "https://modrinth.com/mod/MVARlG2f",
+        "version": "1.1-40"
+    },
+    {
+        "name": "kotlinforforge-5.12.0-all"
+    },
+    {
+        "authors": [
+            "L_Ender"
+        ],
+        "name": "lionfishapi",
+        "url": "https://modrinth.com/mod/FoVacERa",
+        "version": "3.1"
+    },
+    {
+        "authors": [
+            "glisco, Blodhgarm, BasiqueEvangelist, Noaaan"
+        ],
+        "name": "oωo",
+        "url": "https://modrinth.com/mod/ccKDOlHs",
+        "version": "0.12.15.6-beta.1+1.21"
+    },
+    {
+        "authors": [
+            "Luck"
+        ],
+        "name": "spark",
+        "url": "https://modrinth.com/mod/l6YH9Als",
+        "version": "1.10.124"
+    }
+]

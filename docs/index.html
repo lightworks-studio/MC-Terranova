@@ -24,6 +24,7 @@
       <a href="#download">Download</a>
       <a href="#install">Install</a>
       <a href="modlist.html">Mod List</a>
+      <a href="https://www.createmodservers.com/server/b5ca53d7" target="_blank" rel="noopener">Server</a>
     </div>
   </nav>
 
@@ -55,7 +56,15 @@
           <h3>Browse the Mod List</h3>
           <p>See every mod included in Terranova, with links to project pages where available.</p>
           <span class="btn">View Mods</span>
-          <span class="meta">74 mods</span>
+          <span class="meta"><span id="mod-count">…</span> mods</span>
+        </a>
+
+        <a class="card" href="https://www.createmodservers.com/server/b5ca53d7" target="_blank" rel="noopener">
+          <span class="icon">🎮</span>
+          <h3>Play on the Server</h3>
+          <p>Terranova SMP — modded and vanilla worlds with a relaxed, no-rules building scene. Open the listing for join details.</p>
+          <span class="btn">Open Server Listing</span>
+          <span class="meta">via CreateModServers.com</span>
         </a>
       </div>
     </section>
@@ -99,6 +108,21 @@
     <p>Terranova is not affiliated with Mojang or Microsoft. Minecraft is a trademark of Mojang AB.</p>
     <p>Source on <a href="https://github.com/lightworks-studio/MC-Terranova" target="_blank" rel="noopener">GitHub</a></p>
   </footer>
+
+  <script>
+    fetch("modlist.json", { cache: "no-cache" })
+      .then(res => {
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(mods => {
+        const names = new Set(mods.map(mod => mod && mod.name).filter(Boolean));
+        document.getElementById("mod-count").textContent = names.size;
+      })
+      .catch(() => {
+        document.getElementById("mod-count").textContent = "?";
+      });
+  </script>
 
 </body>
 </html>
