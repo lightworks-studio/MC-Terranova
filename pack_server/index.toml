@@ -15123,7 +15123,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "cbce99e396e7237be263e91001785d9811f4e7133dd0e556ab7c646ea37b20f3"
+hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
 metafile = true
 
 [[files]]
@@ -15138,7 +15138,7 @@ metafile = true
 
 [[files]]
 file = "mods/astral-armoury.pw.toml"
-hash = "ddf8f0f36ce31f1056359141a2269d8b68a7f23065bc0d27d14737db9c2d8d3c"
+hash = "25cd325a60dcbb8cb1705b813d7913358b79ca27ac475bd8b07d7df5357409ab"
 metafile = true
 
 [[files]]
@@ -15272,7 +15272,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cc230dd39acdfe8845b6b0c8c3a0f9799a1c1109ea14b5b11c05313f15ed4fc9"
+hash = "a95238f217d2d24bfaf37cd26df6f578b9d4d7e3eca0ff697bad2ad4f6f84585"
 metafile = true
 
 [[files]]
@@ -15327,7 +15327,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "58333a1b7c35bd5940e63b498cf44da16b1f2464c73d72203d1fed84ccfd352a"
+hash = "2ffd0c6ed2e981835168a60cb3418482223ee02d22dd35d0bb541774fa89f81c"
 metafile = true
 
 [[files]]
@@ -15342,7 +15342,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaky.pw.toml"
-hash = "824f9f7477ec39ca80fb03a14986ab990f377d1f8d7a835cd2b60c3bb0b624ce"
+hash = "b9628eef601e660bad93565328d41d1d16eb18687d7d5143d455fe87ad0fe590"
 metafile = true
 
 [[files]]
