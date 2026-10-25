@@ -237,6 +237,10 @@ file = "config/curios-server.toml"
 hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "788de71b683e65bc37b55c2f4a013124ce745b967108786aed643a32ebc5207d"
+
+[[files]]
 file = "config/deeperdarker-common.toml"
 hash = "779f539a3662c4be62ea0e29ca90e9d1b59de17d89e3b471282388ee61341f59"
 
@@ -15207,7 +15211,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-kinetic.pw.toml"
-hash = "27d60c85e48d842f92b52784f42d4d0cecea3f6360b96ea3739fa7e160e6987d"
+hash = "26b031d552f60a59c2c1aeef123564113eead881d7a7caa1d20149d860d11bda"
 metafile = true
 
 [[files]]
@@ -15217,7 +15221,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-xaeros-map.pw.toml"
-hash = "ce4f3b213b52415cecadc297652ba0f1c506e4f987a7ae2bfda437f3bd405d5b"
+hash = "34fc08837336e7f5b3e97b43fc0f8df9dfe4456f764bcae2c9736413d2454205"
 metafile = true
 
 [[files]]
@@ -15312,7 +15316,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "7f28e1665be4355b1eecdd037c8d028fb7176ff940a729dc5e94aa234978ed8d"
+hash = "accb3104876bae233243d28eba4a5c2966a5bf78c9e5eb17ecffbc2d014257a2"
 metafile = true
 
 [[files]]
@@ -15327,7 +15331,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2ffd0c6ed2e981835168a60cb3418482223ee02d22dd35d0bb541774fa89f81c"
+hash = "1af5a3356a1d4edbc9aaf92244ab8f76de5c9dfbfb7d9d2fa4a7ad660cf65215"
 metafile = true
 
 [[files]]
@@ -15357,7 +15361,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d10fbef1555f5277563b9cbf7683811ac0f38c1af41646e6ce5c3aaa2149425d"
+hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
 
 [[files]]
@@ -15407,7 +15411,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
+hash = "2e0b31d4a3d4298045b368558ce7fe191a13bccb02a4524ca748598a9dcf4ca5"
 metafile = true
 
 [[files]]
