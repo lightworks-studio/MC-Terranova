@@ -5947,11 +5947,6 @@ hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
-metafile = true
-
-[[files]]
 file = "mods/dye-depot.pw.toml"
 hash = "868ac326db1626226c11babcfe8a50d1aef1d3c198bcbf89b133a4f81f938a7c"
 metafile = true
@@ -5989,11 +5984,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
 metafile = true
 
 [[files]]

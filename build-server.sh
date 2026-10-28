@@ -28,6 +28,8 @@ packwiz curseforge add leaky -y
 packwiz modrinth add in-control -y
 
 # remove mods that would crash the server
+rm ./mods/do-a-barrel-roll.pw.toml
+rm ./mods/forgified-fabric-api.pw.toml
 rm ./mods/fastquit-forge.pw.toml
 rm ./mods/sodium.pw.toml
 rm ./mods/colorwheel.pw.toml
