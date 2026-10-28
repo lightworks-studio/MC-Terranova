@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
   <link rel="icon" type="image/png" href="assets/icon.png">
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
   <header class="hero">
@@ -32,25 +34,37 @@
 
     <section id="download">
       <h2>Download</h2>
-      <p class="lead">Grab the pack in whichever format suits your launcher. The <strong>.mrpack</strong> works with Prism Launcher, ATLauncher, and other modern launchers; the <strong>.zip</strong> is a ready-to-import instance.</p>
+      <p class="lead">Grab the pack in whichever format suits your launcher. The <strong>.mrpack</strong> works with
+        Prism Launcher, ATLauncher, and other modern launchers; the <strong>.zip</strong> is a ready-to-import instance.
+      </p>
 
       <div class="cards">
-        <a class="card" href="https://raw.githubusercontent.com/lightworks-studio/MC-Terranova/main/dist/pack_prebuilt.mrpack" download>
+        <a class="card" href="https://modrinth.com/modpack/terranova-lightning323" target="_blank" rel="noopener" download>
           <span class="icon">📦</span>
-          <h3>Prebuilt Pack (Modrinth)</h3>
+          <h3>Modrinth Pack</h3>
           <p>Standard Modrinth-format pack. Import directly into Prism Launcher or any Modrinth-compatible launcher.</p>
-          <span class="btn">Download .mrpack</span>
-          <span class="meta">via GitHub · ~40 MB</span>
+          <span class="btn">Download on Modrinth</span>
+          <span class="meta">via Modrinth</span>
         </a>
 
-        <a class="card" href="https://raw.githubusercontent.com/lightworks-studio/MC-Terranova/main/dist/Terranova.zip" download>
+        <a class="card" href="https://raw.githubusercontent.com/lightworks-studio/MC-Terranova/main/dist/Terranova.zip"
+          download>
           <span class="icon">🗂️</span>
           <h3>Auto-Update Instance (Prism Launcher)</h3>
           <p>Prebuilt instance archive. Unzip into your launcher's instance folder, or import it as a zip instance.</p>
           <span class="btn">Download .zip</span>
-          <span class="meta">via GitHub · ~22 MB</span>
+          <span class="meta">via GitHub</span>
         </a>
+      </div>
+    </section>
 
+    <section id="explore">
+      <h2>Explore</h2>
+      <p class="lead">Grab the pack in whichever format suits your launcher. The <strong>.mrpack</strong> works with
+        Prism Launcher, ATLauncher, and other modern launchers; the <strong>.zip</strong> is a ready-to-import instance.
+      </p>
+
+      <div class="cards">
         <a class="card" href="modlist.html">
           <span class="icon">🧾</span>
           <h3>Browse the Mod List</h3>
@@ -62,7 +76,8 @@
         <a class="card" href="https://www.createmodservers.com/server/b5ca53d7" target="_blank" rel="noopener">
           <span class="icon">🎮</span>
           <h3>Play on the Server</h3>
-          <p>Terranova SMP — modded and vanilla worlds with a relaxed, no-rules building scene. Open the listing for join details.</p>
+          <p>Terranova SMP — modded and vanilla worlds with a relaxed, no-rules building scene. Open the listing for
+            join details.</p>
           <span class="btn">Open Server Listing</span>
           <span class="meta">via CreateModServers.com</span>
         </a>
@@ -76,27 +91,35 @@
       <div class="steps">
         <div class="step">
           <h3>Get a launcher</h3>
-          <p>We recommend <a href="https://prismlauncher.org/" target="_blank" rel="noopener">Prism Launcher</a>, but any Modrinth-compatible launcher works for the .mrpack.</p>
+          <p>We recommend <a href="https://prismlauncher.org/" target="_blank" rel="noopener">Prism Launcher</a>, but
+            any Modrinth-compatible launcher works for the .mrpack.</p>
         </div>
         <div class="step">
           <h3>Import the pack</h3>
-          <p>Drag the downloaded <code>.mrpack</code> or <code>.zip</code> file into your launcher, or use <em>Add Instance → Import</em> and select the file.</p>
+          <p>Drag the downloaded <code>.mrpack</code> or <code>.zip</code> file into your launcher, or use <em>Add
+              Instance → Import</em> and select the file.</p>
         </div>
         <div class="step">
           <h3>Launch</h3>
-          <p><b>Give the instance 5 GB or more of RAM</b>, then hit Play. Updates can be applied by re-importing a newer build.</p>
+          <p><b>Give the instance 5 GB or more of RAM</b>, then hit Play. Updates can be applied by re-importing a newer
+            build.</p>
         </div>
       </div>
     </section>
-
+<br><br>
+<br><br>
     <section id="packwiz">
-      <h2>Adding your Own Mods (advanced)</h2>
-      <p class="lead">Prefer to add other mods? Replace the startup command on the Prism Instance with the following:</p>
+      <h2>Auto-Update Instance (Prism Launcher) | Advanced Features</h2>
+      <h3>Adding your Own Mods (advanced)</h3>
+      <p class="lead">Prefer to add other mods? Replace the startup command on the Prism Instance with the following:
+      </p>
       <div class="step">
-        <p><code>"$INST_JAVA" -jar "$INST_MC_DIR/packInstaller.jar" -sm -shc -u https://raw.githubusercontent.com/Lightning323/MC-Terranova/main/pack/pack.toml</code></p>
+        <p>
+          <code>"$INST_JAVA" -jar "$INST_MC_DIR/packInstaller.jar" -sm -shc -u https://raw.githubusercontent.com/Lightning323/MC-Terranova/main/pack/pack.toml</code>
+        </p>
       </div>
       <br>
-      <h3>Supported Server-Side Mods</h3>
+      <h4>Supported Server-Side Mods</h4>
       <ul>
         <li><span class="no-link">Distant Horizons</span></li>
       </ul>
@@ -106,7 +129,8 @@
 
   <footer>
     <p>Terranova is not affiliated with Mojang or Microsoft. Minecraft is a trademark of Mojang AB.</p>
-    <p>Source on <a href="https://github.com/lightworks-studio/MC-Terranova" target="_blank" rel="noopener">GitHub</a></p>
+    <p>Source on <a href="https://github.com/lightworks-studio/MC-Terranova" target="_blank" rel="noopener">GitHub</a>
+    </p>
   </footer>
 
   <script>
@@ -125,4 +149,5 @@
   </script>
 
 </body>
+
 </html>
