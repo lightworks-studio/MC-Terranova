@@ -630,11 +630,11 @@ hash = "486ef4e2c9acd7f71aed6202ad811e312d9d2262f3bd42968f260aeae8da34f6"
 
 [[files]]
 file = "config/neutrontools/new_tabs/armor_and_accessories.json"
-hash = "09e81f743b7206ae0178c264d93e748887133d891d9ccbf2df89af44af4a5954"
+hash = "cc3351ca5a322a0766da0ba4b0d07c9cfef54a6360870295ae5dbae8ce62f5e2"
 
 [[files]]
 file = "config/neutrontools/new_tabs/decorations.json"
-hash = "c9d21b946f41ff72619ecfda3ab8738b8be0b8dad1fa950952eac93625348b5a"
+hash = "5b823006c8541d5fa6fcd364bc8e9ea15c0c555704c12726882af5eda7f6ced2"
 
 [[files]]
 file = "config/neutrontools/new_tabs/gadgets_and_utilities.json"
@@ -642,7 +642,7 @@ hash = "30898cf0b72a3add558c94dfc7d560ace7e13a9c1ba720f4ec1b43ed69de35a8"
 
 [[files]]
 file = "config/neutrontools/new_tabs/ores_and_materials.json"
-hash = "79d1ac32a1d938fec9df4e47c232cecbfd79ffd6db6d63c1194691ad42fe3d7c"
+hash = "7e508bd2bfa6b82f1925e533d9bd05af3e03c9dcd824465c22f06559fcb03697"
 
 [[files]]
 file = "config/neutrontools/new_tabs/plants_and_foliage.json"
@@ -14314,7 +14314,7 @@ hash = "99be962bcf199ba1403b305b4ef25963f7fb53a1a3e22474a993fe64d6a0902a"
 
 [[files]]
 file = "config/neutrontools/readme.txt"
-hash = "a51e8e33b961e1612c3f132868538b4ebca2a9ef14f518147b055b17433ca155"
+hash = "bb9dd2219c9943076dcb6b5acf5264468ca453395bc0949e5151ed8337914ec5"
 
 [[files]]
 file = "config/neutrontools/tab_edits/bosses.json"
@@ -14322,7 +14322,7 @@ hash = "4f30fe73c9e30198866e009913a702b16a7c495da3e560f25b224298ee2fddac"
 
 [[files]]
 file = "config/neutrontools/tab_edits/cooking.json"
-hash = "e11b84f64cd791bc229059a90f8fdcaf2bf928ea700b2729564012bc17d6012a"
+hash = "150768e267b1cb53ab30bee9972cb5ddb64a489a3cdeb32ceac6d3ce03c573cf"
 
 [[files]]
 file = "config/neutrontools/tab_edits/create__base.json"
@@ -14350,7 +14350,7 @@ hash = "3d26b3dcc685a26276aab7131bf59bb062b3b62f061d0d66ba5ac41769d13fd7"
 
 [[files]]
 file = "config/neutrontools/tab_edits/everycomp__everycomp.json"
-hash = "0ecee6e33ec9ae3c520ac8e9e8d611750cfc5d141da8822d9c773bf05ceeda88"
+hash = "6cc5288914154186fe6353bc38260a205667801c21e3eca26dadbb51c320ff58"
 
 [[files]]
 file = "config/neutrontools/tab_edits/mcwroofs__mcwroofs.json"
@@ -14358,11 +14358,11 @@ hash = "913e1c43157bddac09cd47e051b360b803f7cb57dc455c0ac07421da90467052"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__building_blocks.json"
-hash = "09e3ea06910938a9ab2ad1c125800f065356542e1c1b6e0e89917287045f2639"
+hash = "7ae4481a3665cd6bf29b93306c095df718204274869f3023e2192c126417158d"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__combat.json"
-hash = "b75f82218be6f990347095b1d28533821f3c6cc3b1f006584fa4ae3594789ff2"
+hash = "072c7837e8dca040e2d9432ed672793cea6dfffae042a711fe1275f345c94860"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__food_and_drinks.json"
@@ -14370,15 +14370,15 @@ hash = "c91d7cabde6f9021522164160f9864f67300f0a52cb119478ec07a0494ad54a6"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__functional_blocks.json"
-hash = "500c970be3e4564c99d4b5c9f5b37e49ca3bdf56620b4c1bc52631a25c6d1911"
+hash = "12edb21ba9233af518f53d89b2f5daed4ce4000c176ee33a791477cbb5ba84a4"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__ingredients.json"
-hash = "198ed0259efec934340dc36d5556c799482b2d707199d57930cc98474b3ef7dc"
+hash = "cc4700b6f93b42c63139c767a2f8b9f3b9b7de75e86f590ea3a59079e7a2d838"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__natural_blocks.json"
-hash = "7b77c2b4a98527d3fce8333d9b72cf7476e7cfcd5882f8da251439208ca3fdce"
+hash = "8053b9dba7e3401adced3ebad8cfc79d1de9e370c0402cfa9b6e703890698406"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__op_blockss.json"
@@ -14394,7 +14394,7 @@ hash = "6a3313d74585c249689ab3cafd553193da0d0641ed83b01961a8fa27def5db44"
 
 [[files]]
 file = "config/neutrontools/tab_edits/minecraft__tools_and_utilities.json"
-hash = "e4b8171d1a5a8fd25fd3e9573613d1f7ac7a59be4b6fe469724b46017ad03ab8"
+hash = "65fba28f396c0f0e7bf0003ce62c7f7d5b43829982d1cfaa34551abc14380f66"
 
 [[files]]
 file = "config/neutrontools/tab_edits/northstar__blocks.json"

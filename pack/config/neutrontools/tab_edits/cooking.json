@@ -12,9 +12,6 @@
     "items_to_remove": [
       {
         "match_name": "farmersdelight:.*(net|rug|mat|cabinet|rope|canvas|sign|tatami).*"
-      },
-      {
-        "match_name": ".*cabinet"
       }
     ]
   }

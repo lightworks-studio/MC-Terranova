@@ -1,7 +1,7 @@
 {
   "ores_and_materials": {
     "tab_icon": {
-      "name": "minecraft:iron_ingot"
+      "name": "minecraft:gold_ore"
     },
     "items_to_add": [
       {

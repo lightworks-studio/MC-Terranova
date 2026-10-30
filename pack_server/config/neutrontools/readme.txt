@@ -6,9 +6,9 @@
 GOAL
 ----
 Integrate every item from the Aether and Deeper and Darker mods into the
-vanilla Minecraft creative tabs, and hide their standalone mod tabs, so the
-creative menu only keeps the vanilla-style tab layout with all the mod
-content living inside the normal places.
+vanilla Minecraft creative tabs, hide their standalone mod tabs, and provide
+additional themed tabs for large item families. Existing tabs keep their
+original contents; themed tabs are additive and may duplicate items.
 
 HIDDEN TABS (disabled_tabs.json)
 --------------------------------
@@ -54,6 +54,26 @@ berries/food -> food; gems/sticks/powders/templates -> ingredients; moa/spawn eg
 
 Items with no names (match_tab / match_name / match_tags rules) resolve against
 the creative-tab cache on every launch, so they stay in sync automatically.
+
+ADDITIONAL THEMED TABS (new_tabs/, additive)
+--------------------------------------------
+These tabs add extra copies of selected item families. They do NOT strip those
+items from the vanilla/mod tabs that already contain them; duplicates across
+tabs are intentional.
+
+  everycomp:everycomp                Wood & Timber (421 explicit names, plus
+                                     the tab's original everycomp rules)
+  neutrontools:stone_and_masonry     Stone & Masonry (493)
+  neutrontools:ores_and_materials    Ores & Materials (81)
+  neutrontools:decorations           Decorations (458; all signs, all 32 stool and
+                                     32 seat colours; stairs/slabs/glass panes removed)
+  neutrontools:plants_and_foliage    Plants & Foliage (129)
+  neutrontools:armor_and_accessories Armor & Accessories (123)
+  neutrontools:gadgets_and_utilities Gadgets & Utilities (139)
+
+ordered_tabs.json defines 30 tabs across 3 pages. The old extra_colors tab was
+removed and colored_blocks is left untouched (all 834 original items remain).
+mcwroofs is not installed; minecraft:op_blocks occupies the last slot.
 
 CONFIG LAYOUT & SYNC (IMPORTANT)
 --------------------------------

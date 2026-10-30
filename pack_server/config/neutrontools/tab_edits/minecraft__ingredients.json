@@ -26,46 +26,6 @@
         ]
       }
     ],
-    "items_to_remove": [
-      {
-        "names": [
-          "minecraft:coal",
-          "minecraft:charcoal",
-          "minecraft:raw_iron",
-          "minecraft:raw_copper",
-          "minecraft:raw_gold",
-          "minecraft:emerald",
-          "minecraft:lapis_lazuli",
-          "minecraft:diamond",
-          "minecraft:quartz",
-          "minecraft:amethyst_shard",
-          "minecraft:iron_nugget",
-          "minecraft:gold_nugget",
-          "minecraft:iron_ingot",
-          "minecraft:copper_ingot",
-          "minecraft:gold_ingot",
-          "minecraft:netherite_scrap",
-          "minecraft:netherite_ingot",
-          "minecraft:echo_shard",
-          "aether:ambrosium_shard",
-          "aether:zanite_gemstone",
-          "aether:golden_amber",
-          "deeperdarker:resonarium",
-          "deeperdarker:resonarium_plate",
-          "deeperdarker:soul_crystal",
-          "deeperdarker:soul_dust",
-          "deeperdarker:lite",
-          "deeperdarker:heart_of_the_deep",
-          "minecraft:flint",
-          "minecraft:clay_ball",
-          "minecraft:prismarine_shard",
-          "minecraft:prismarine_crystals",
-          "minecraft:nautilus_shell",
-          "minecraft:heart_of_the_sea",
-          "minecraft:glowstone_dust",
-          "minecraft:ancient_debris"
-        ]
-      }
-    ]
+    "items_to_remove": []
   }
 }

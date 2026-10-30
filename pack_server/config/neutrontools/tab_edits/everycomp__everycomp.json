@@ -3,6 +3,35 @@
     "tab_name_key": "all_wood",
     "items_to_add": [
       {
+        "match_name": ".*chest"
+      },
+      {
+        "match_name": ".*cabinet"
+      },
+      {
+        "match_name": ".*planks"
+      },
+      {
+        "match_tags": [
+          "minecraft:wooden_stairs"
+        ]
+      },
+      {
+        "match_tags": [
+          "minecraft:wooden_slabs"
+        ]
+      },
+      {
+        "match_tags": [
+          "quark:wooden_vertical_slabs"
+        ]
+      },
+      {
+        "match_tags": [
+          "c:ladders"
+        ]
+      },
+      {
         "names": [
           "aether:golden_oak_log",
           "aether:golden_oak_wood",
