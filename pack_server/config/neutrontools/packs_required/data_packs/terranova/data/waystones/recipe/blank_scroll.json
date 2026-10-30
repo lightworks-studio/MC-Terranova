@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "terranova:void_core_dust"
+      "item": "neutrontools:void_core_dust"
     },
     {
       "item": "waystones:warp_dust"

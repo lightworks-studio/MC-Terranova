@@ -21,6 +21,7 @@
     "catools:main",
     "numismatics:main",
     "aether:functional_blocks",
+    "createaddition:createaddition",
     "aeroworks:main",
     "northstar:items"
   ]

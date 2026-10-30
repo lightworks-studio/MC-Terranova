@@ -2,9 +2,9 @@
   "type": "create:mechanical_crafting",
   "accept_mirrored": false,
   "key": {
-    "C": { "item": "terranova:hydronite_shard" },
-    "Y": { "item": "terranova:abyssal_ingot" },
-    "X": { "item": "terranova:void_pearl" }
+    "C": { "item": "neutrontools:hydronite_shard" },
+    "Y": { "item": "neutrontools:abyssal_ingot" },
+    "X": { "item": "neutrontools:void_pearl" }
   },
   "pattern": [
     " CCC ", 

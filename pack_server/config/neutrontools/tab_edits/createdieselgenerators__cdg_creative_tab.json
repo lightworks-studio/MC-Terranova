@@ -1,5 +1,13 @@
 {
   "createdieselgenerators:cdg_creative_tab": {
-    "tab_name_key": "diesel_generators"
+    "tab_name_key": "mechanical_3",
+    "tab_icon": {
+      "name": "create:gearbox"
+    },
+    "items_to_add": [
+      {
+        "match_tab": "createaddition:createaddition"
+      }
+    ]
   }
 }

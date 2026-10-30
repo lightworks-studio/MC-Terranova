@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "neutrontools:abyssal_ingot"
+    },
+    {
+      "item": "northstar:lunar_sapphire_shard"
+    }
+  ],
+  "results": [
+    {
+      "id": "neutrontools:hydronite_shard"
+    },
+    {
+      "id": "neutrontools:hydronite_shard"
+    },
+    {
+      "id": "neutrontools:hydronite_shard"
+    }
+  ],
+  "heat_requirement": "superheated"
+}

@@ -1,9 +1,9 @@
 {
   "replace": false,
   "entries": [
-    "terranova:ender_dragon_drops",
-    "terranova:ender_guardian",
-    "terranova:the_leviathan",
-    "terranova:netherite_monstrosity"
+    "neutrontools:ender_dragon_drops",
+    "neutrontools:ender_guardian",
+    "neutrontools:the_leviathan",
+    "neutrontools:netherite_monstrosity"
   ]
 }

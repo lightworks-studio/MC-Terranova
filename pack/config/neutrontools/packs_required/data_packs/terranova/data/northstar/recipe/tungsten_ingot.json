@@ -2,7 +2,7 @@
   "type": "create:compacting",
   "ingredients": [
     {
-      "item": "terranova:heat_tile"
+      "item": "neutrontools:heat_tile"
     },
     {
       "item": "northstar:titanium_ingot"

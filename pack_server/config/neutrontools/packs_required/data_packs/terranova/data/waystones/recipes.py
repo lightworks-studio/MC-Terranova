@@ -27,7 +27,7 @@ def get_portstone_recipe(color, dye_item_id):
             "A": {"item": "minecraft:lodestone"},
             "B": {"item": dye_item_id},
             "P": {"tag": "minecraft:stone_bricks"},
-            "S": {"item": "terranova:void_pearl"}
+            "S": {"item": "neutrontools:void_pearl"}
         },
         "pattern": [
             "  S  ",
@@ -52,7 +52,7 @@ def get_sharestone_recipe(color, dye_item_id):
             "A": {"item": "minecraft:lodestone"},
             "B": {"item": dye_item_id},
             "P": {"tag": "minecraft:stone_bricks"},
-            "S": {"item": "terranova:void_pearl"}
+            "S": {"item": "neutrontools:void_pearl"}
         },
         "pattern": [
             "PPAPP",

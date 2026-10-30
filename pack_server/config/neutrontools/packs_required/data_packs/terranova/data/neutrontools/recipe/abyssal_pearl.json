@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "P": {
+      "item": "neutrontools:abyssal_ingot"
+    }
+  },
+  "pattern": [
+    " P ",
+    "PNP",
+    " P "
+  ],
+  "result": {
+    "count": 2,
+    "id": "neutrontools:abyssal_pearl"
+  }
+}

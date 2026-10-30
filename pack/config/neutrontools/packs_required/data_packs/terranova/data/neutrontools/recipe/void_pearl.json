@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "neutrontools:void_dust"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 500,
+      "fluid": "aeronautics:levitite_blend"
+    }
+  ],
+  "results": [
+    {
+      "amount": 2,
+      "id": "neutrontools:void_pearl"
+    }
+  ]
+}

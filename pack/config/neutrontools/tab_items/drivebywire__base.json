@@ -1,9 +1,0 @@
-{
-  "tab": "drivebywire:base",
-  "names": [
-    "drivebywire:wire",
-    "drivebywire:wire_cutter",
-    "drivebywire:backup_block",
-    "drivebywire:controller_hub"
-  ]
-}

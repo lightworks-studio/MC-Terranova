@@ -1,13 +1,13 @@
 name = "Neutron Tools"
-filename = "neutrontools-1.14.0.jar"
+filename = "neutrontools-1.15.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bnr3uObB/versions/Ua8sLFnl/neutrontools-1.14.0.jar"
+url = "https://cdn.modrinth.com/data/bnr3uObB/versions/mOFCouOL/neutrontools-1.15.0.jar"
 hash-format = "sha512"
-hash = "ebd0da30db61dcc1f5fcbc15e8a38767b94c5baa791443610cd32e63f50dcba33aa57b2975815878fa9f41f26e7b5085816a7250df8a4c65a49c1af48cb606b4"
+hash = "8f65036885f12f5b1b2e7ac062bd85bbbfe2965ce99a328c88b292fe07a431de228c7c7fbda10ed67bc485e1e6fec215cbee1d9c29b52ce412ba50b54a0ba3dc"
 
 [update]
 [update.modrinth]
 mod-id = "bnr3uObB"
-version = "Ua8sLFnl"
+version = "mOFCouOL"
