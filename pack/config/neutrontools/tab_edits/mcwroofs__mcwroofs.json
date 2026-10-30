@@ -1,0 +1,11 @@
+{
+  "mcwroofs:mcwroofs": {
+    "tab_name_key": "roofs",
+    "items_to_add": [],
+    "items_to_remove": [
+      {
+        "match_name": ".*gutter"
+      }
+    ]
+  }
+}

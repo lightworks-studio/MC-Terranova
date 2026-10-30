@@ -602,7 +602,7 @@ hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
-hash = "a5d9e344ace931d8867a8ce9866fb4792681be0aa9eed04a0574ab2da3e0180e"
+hash = "b551f5c1b3e943f1b51bf69d2508cef24f7f5979986940b8cc3c63a6a0792711"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
@@ -629,8 +629,32 @@ file = "config/neutrontools/neutron-tools-config.toml"
 hash = "486ef4e2c9acd7f71aed6202ad811e312d9d2262f3bd42968f260aeae8da34f6"
 
 [[files]]
+file = "config/neutrontools/new_tabs/armor_and_accessories.json"
+hash = "09e81f743b7206ae0178c264d93e748887133d891d9ccbf2df89af44af4a5954"
+
+[[files]]
+file = "config/neutrontools/new_tabs/decorations.json"
+hash = "c9d21b946f41ff72619ecfda3ab8738b8be0b8dad1fa950952eac93625348b5a"
+
+[[files]]
+file = "config/neutrontools/new_tabs/gadgets_and_utilities.json"
+hash = "30898cf0b72a3add558c94dfc7d560ace7e13a9c1ba720f4ec1b43ed69de35a8"
+
+[[files]]
+file = "config/neutrontools/new_tabs/ores_and_materials.json"
+hash = "79d1ac32a1d938fec9df4e47c232cecbfd79ffd6db6d63c1194691ad42fe3d7c"
+
+[[files]]
+file = "config/neutrontools/new_tabs/plants_and_foliage.json"
+hash = "5ed6f77364ba3fd4d5b75589ef3c2b4a31804ec15d5657f86060f0319eb33061"
+
+[[files]]
+file = "config/neutrontools/new_tabs/stone_and_masonry.json"
+hash = "d468bd727826ccc8374605541cc636219f88f3bef42b8552e395f30f088020ad"
+
+[[files]]
 file = "config/neutrontools/ordered_tabs.json"
-hash = "53a8fd4b13818cb617d1cc647b44a75d538cc1207ce8513c95d3a3c27fa0251b"
+hash = "08a30f75f6149f4aa0462caec1ddadb06c2d4e3eb7232d1dc19323d9ba087cb7"
 
 [[files]]
 file = "config/neutrontools/packs_optional/resource_packs/Deep Grass.zip"
@@ -743,6 +767,10 @@ hash = "5afda74d6ff7821d7484e22d5d90c5dbf902a5a1f6221f88d8bf8f3aa9b302ec"
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/fuegon/painting_variant/village.json"
 hash = "ddaeefc21cabf03b284e742e6fe731a34b52757faed374c4b14ba7fae183cc78"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/loot_modifiers/global_loot_modifiers.json"
+hash = "48e31dc9880e236d7cf0c948a61edffbe5fb4ea6b0209c21ec0beb5183b58724"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/mcwroofs/recipe/gutter_base.json"
@@ -9617,6 +9645,22 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/terralith/f
 hash = "2c1a8ed46ad46c439368a00480c1be36801c6858cd5c28524e2dc0271c048e8d"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_table/dragon_extra.json"
+hash = "9a198e5a113cd132ee7f9395f34f37c67474d1d0b3ae1d52a225b84f1d1b5921"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/loot_table/ender_guardian.json"
+hash = "52d8784394bcbca72a64fa9b653507b3aa47e3a6c011390b9f0beb04f73dc328"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/void_core_dust.json"
+hash = "df233a93353412ee6ab90effd57c9411449252ec2ba77fde2bbaadb75a66ffda"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/void_pearl.json"
+hash = "81af42aa6f92550bf7647217e44c56e4bbf3d5900672f4ed6a02181bc75f7b46"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/waystones/recipe/amber_portstone.json"
 hash = "d4e2cce2d4780ee89e61569cd02939f08f8c22cb4f83c66a714ac8737a069e20"
 
@@ -12834,7 +12878,7 @@ hash = "b4bdd36549c2fdacd2b832d7c5b668c3c1e2600766a9a59d6e3a2205ffdd07af"
 
 [[files]]
 file = "config/neutrontools/packs_required/resource_packs/terranova/assets/minecraft/lang/en_us.json"
-hash = "8f424b7a90e3f3cf82d9de3fd146dcbe4eee38478e8de3cbb59b7730bfd9f1cb"
+hash = "9e7e649dbbf2e9a0d986853e58f52068e5f8d752298ea3ae1daad6b34103a6be"
 
 [[files]]
 file = "config/neutrontools/packs_required/resource_packs/terranova/assets/minecraft/models/block/black_stained_glass.json"
@@ -14270,7 +14314,7 @@ hash = "99be962bcf199ba1403b305b4ef25963f7fb53a1a3e22474a993fe64d6a0902a"
 
 [[files]]
 file = "config/neutrontools/readme.txt"
-hash = "27e7e6d27e03f2405701b479798d8c19247750fc47e85b572fbb5d0e0e76e903"
+hash = "a51e8e33b961e1612c3f132868538b4ebca2a9ef14f518147b055b17433ca155"
 
 [[files]]
 file = "config/neutrontools/tab_edits/bosses.json"
@@ -14278,19 +14322,91 @@ hash = "4f30fe73c9e30198866e009913a702b16a7c495da3e560f25b224298ee2fddac"
 
 [[files]]
 file = "config/neutrontools/tab_edits/cooking.json"
-hash = "ded34baa5a81d86fff426b40589e1e7602f2c93ca8cc70d34102c98517716e92"
+hash = "e11b84f64cd791bc229059a90f8fdcaf2bf928ea700b2729564012bc17d6012a"
 
 [[files]]
-file = "config/neutrontools/tab_edits/create_mechanical.json"
-hash = "19d076af1c59251d2b4b997049ce820396c1c2c51d210e1f9d79b45458e4a785"
+file = "config/neutrontools/tab_edits/create__base.json"
+hash = "7fa5886cb6b18c220f1bda64c8869f53d2f8e1fc6ffff65bd6c8f105fb3433a6"
 
 [[files]]
-file = "config/neutrontools/tab_edits/decoration.json"
-hash = "16b5ad05fe269e93118efc5ff38cde31f5f17830f2ea2ba2f7feb781edce8f1a"
+file = "config/neutrontools/tab_edits/create__palettes.json"
+hash = "862171386411b8cab3747b4136294434c19175f155b6006e67eb0df17ed6bf42"
 
 [[files]]
-file = "config/neutrontools/tab_edits/minecraft.json"
-hash = "78606cbb4dbabc7d83ac170541be36dd6d9a3d6817a3abe9c541faa05198ab94"
+file = "config/neutrontools/tab_edits/create_connected__main.json"
+hash = "443ea04b14c2562e116a7804459ff227fecf8a2f6e0fae81948147f539b08552"
+
+[[files]]
+file = "config/neutrontools/tab_edits/createaddition__createaddition.json"
+hash = "53a83580b2e94d3cef2e8ea168edb75b66a1bea8c0e0061560291a4e2112dba7"
+
+[[files]]
+file = "config/neutrontools/tab_edits/createbigcannons__base.json"
+hash = "05db74594fc31b1a47a7559118963957e7c451500c9dc8bb7f1c972a3b1f3916"
+
+[[files]]
+file = "config/neutrontools/tab_edits/createdieselgenerators__cdg_creative_tab.json"
+hash = "3d26b3dcc685a26276aab7131bf59bb062b3b62f061d0d66ba5ac41769d13fd7"
+
+[[files]]
+file = "config/neutrontools/tab_edits/everycomp__everycomp.json"
+hash = "0ecee6e33ec9ae3c520ac8e9e8d611750cfc5d141da8822d9c773bf05ceeda88"
+
+[[files]]
+file = "config/neutrontools/tab_edits/mcwroofs__mcwroofs.json"
+hash = "913e1c43157bddac09cd47e051b360b803f7cb57dc455c0ac07421da90467052"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__building_blocks.json"
+hash = "09e3ea06910938a9ab2ad1c125800f065356542e1c1b6e0e89917287045f2639"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__combat.json"
+hash = "b75f82218be6f990347095b1d28533821f3c6cc3b1f006584fa4ae3594789ff2"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__food_and_drinks.json"
+hash = "c91d7cabde6f9021522164160f9864f67300f0a52cb119478ec07a0494ad54a6"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__functional_blocks.json"
+hash = "500c970be3e4564c99d4b5c9f5b37e49ca3bdf56620b4c1bc52631a25c6d1911"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__ingredients.json"
+hash = "198ed0259efec934340dc36d5556c799482b2d707199d57930cc98474b3ef7dc"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__natural_blocks.json"
+hash = "7b77c2b4a98527d3fce8333d9b72cf7476e7cfcd5882f8da251439208ca3fdce"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__op_blockss.json"
+hash = "6aa76b5aa00e2ea88185d1cd190e709e991c9bbff2048265d4b36ebeede57287"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__redstone_blocks.json"
+hash = "8389259fedeac00b8ea876ed76ed8f60ad1e2fe07bd9290a4260a819d100b296"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__spawn_eggs.json"
+hash = "6a3313d74585c249689ab3cafd553193da0d0641ed83b01961a8fa27def5db44"
+
+[[files]]
+file = "config/neutrontools/tab_edits/minecraft__tools_and_utilities.json"
+hash = "e4b8171d1a5a8fd25fd3e9573613d1f7ac7a59be4b6fe469724b46017ad03ab8"
+
+[[files]]
+file = "config/neutrontools/tab_edits/northstar__blocks.json"
+hash = "fb20c66856f3d328722ecf59b2bd109107c7738d4bf27a4709d7520f1bb92ee4"
+
+[[files]]
+file = "config/neutrontools/tab_edits/northstar__items.json"
+hash = "7351e8ebfda746033b6b2b7f65eb3a21a94d670862a839f5b247e012e042fff5"
+
+[[files]]
+file = "config/neutrontools/tab_edits/northstar__tech.json"
+hash = "02fdd4812a951040eb8fb2d2187e82221b6d8335d0c0727be0667d1cc0b3a067"
 
 [[files]]
 file = "config/neutrontools/tab_edits/op.json"
@@ -14301,12 +14417,188 @@ file = "config/neutrontools/tab_edits/railways.json"
 hash = "86fe6c4eade83d73f1ed173511fe5aa1a10b822e8be874ae7140c1acd572dac4"
 
 [[files]]
-file = "config/neutrontools/tab_edits/space.json"
-hash = "b81d3593b9daa2f314d0e0085154fe20367c38698f149942e902501ce9df0b2c"
+file = "config/neutrontools/tab_edits/simulated__main_tab.json"
+hash = "08ca88c419dd71fa47d974cca41dcf19791fb5b763d5adc0d167fc1a171195f5"
 
 [[files]]
-file = "config/neutrontools/tab_items.json"
-hash = "17fed8f1377844edceb88e5b241367ec878da30e4c10ef36581f925812345f81"
+file = "config/neutrontools/tab_items/aether__armor_and_accessories.json"
+hash = "ec0e5cd44c9f3d36129e945307d25e92d5ce2d76787384e2136716d25ece64f3"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__building_blocks.json"
+hash = "586f3bafb2c78e8db4f21a2554a3df58e1060d945c21d69fdc9e35e64e7f421b"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__dungeon_blocks.json"
+hash = "f1f7c3ad826f93ecb87c357c3dea40eb6d91dc07043326d3d212cc062dc4bab3"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__equipment_and_utilities.json"
+hash = "86d9ec7ed9a2afbac6c0b69ac9b9d4e6e5510986f19f99b06a806eccb732425c"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__food_and_drinks.json"
+hash = "5f42f4d978260034b61a44fa8f74817c2d166e745619f0896cd606b382fc5836"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__functional_blocks.json"
+hash = "250f8110513dc520f7fd9964aab9127ef1aad65023babcd3e677ac371ea63a43"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__ingredients.json"
+hash = "4531cdd6f9808e3c88a716aba66feeaca4e4ad90b12bd60feab1c81975f13609"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__natural_blocks.json"
+hash = "8b96fc56dbcfa38976a13efe8ff0287807c8604606e73ae5b91b72348b840533"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__redstone_blocks.json"
+hash = "14c944d6b89f05cf922c1b146b02cdf281a8abd293c1329bca844ef43410a453"
+
+[[files]]
+file = "config/neutrontools/tab_items/aether__spawn_eggs.json"
+hash = "554ebcee0aa9da02a80c714ba4115ecd493b84a1bccd16291759f3033ca8768c"
+
+[[files]]
+file = "config/neutrontools/tab_items/all_tabs.json"
+hash = "624394612a960c2d1e41f13844ee31c0b8c25c991901bafa971fc5d55e3ce206"
+
+[[files]]
+file = "config/neutrontools/tab_items/cataclysm__cataclysm_block.json"
+hash = "4da3838073c046685b4df2cafa68ab0d58084ebad138bd843466f884c0166a33"
+
+[[files]]
+file = "config/neutrontools/tab_items/cataclysm__cataclysm_item.json"
+hash = "90c88c52797c7e5d719a70ccb76209e8f348dd4571b06c5c9d514b1b39d787b6"
+
+[[files]]
+file = "config/neutrontools/tab_items/create__base.json"
+hash = "244de1906d86475b94d3d2baeac6f8137bc7cf8e87367372748379c8ff1c0055"
+
+[[files]]
+file = "config/neutrontools/tab_items/create__palettes.json"
+hash = "5bd1a4050b71b5cf66dd7220357dd6886e06af2b8425bd4ead30cb69c43ce89d"
+
+[[files]]
+file = "config/neutrontools/tab_items/create_connected__main.json"
+hash = "e86735f67f008ede21a785120667d2a199e9f10db01083b075c334a10e20a2af"
+
+[[files]]
+file = "config/neutrontools/tab_items/create_dragons_plus__base.json"
+hash = "045defe8f3978d7ef922da85e9c924d5e400474e9c9c8c95bfd2f906aed3eca8"
+
+[[files]]
+file = "config/neutrontools/tab_items/create_enchantment_industry__base.json"
+hash = "797cc483c7108e07d32afb25eaa68de537c615b8bff5e53caed60d071f6f2ba5"
+
+[[files]]
+file = "config/neutrontools/tab_items/create_power_loader__main.json"
+hash = "3a78c81c532807547803de7880ccb17d110b0ce71571e8edee371c50aa302740"
+
+[[files]]
+file = "config/neutrontools/tab_items/createaddition__createaddition.json"
+hash = "eb5e631a1412b9bc65a93e8edc0d1672fdec3220fcd46bae43b8b9c4db5b886d"
+
+[[files]]
+file = "config/neutrontools/tab_items/createdieselgenerators__cdg_creative_tab.json"
+hash = "c5e3999a444e72c294ce920a2081cbd13f2a746fe89492b66cd87cc8a57d4f47"
+
+[[files]]
+file = "config/neutrontools/tab_items/deeperdarker__deeper_darker.json"
+hash = "e99d145526e38230c66fa7d9c1f31329cc13495886596e262f91a6ea3e461d81"
+
+[[files]]
+file = "config/neutrontools/tab_items/drivebywire__base.json"
+hash = "d07392cc4ce6bf5d1171b52ef72a19a3ba157bd69b1c6ed7046c4c615feac555"
+
+[[files]]
+file = "config/neutrontools/tab_items/everycomp__everycomp.json"
+hash = "4efed4baea2f65b7b799b636a4e7183c4968040833f23bdb563ae27aefa5c60a"
+
+[[files]]
+file = "config/neutrontools/tab_items/farmersdelight__farmersdelight.json"
+hash = "7277e37114fc81d04bedf0ea8e85de4524b69397554eea0f5d293612d7b990ab"
+
+[[files]]
+file = "config/neutrontools/tab_items/kubejs__tab.json"
+hash = "afd7688265f903ee30f07798e289fec8851a439650714d378d175feed9a60d72"
+
+[[files]]
+file = "config/neutrontools/tab_items/mcwroofs__mcwroofs.json"
+hash = "b61398de2fc0dd4599db01c6c0eb17162129cb5aa1978e2383923b9e50a6411e"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__building_blocks.json"
+hash = "f4bb69861bb9254ef26f9a863abd7434af9e4651ef027d89311b3ac9c0945a9a"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__colored_blocks.json"
+hash = "7215b159fa6c5d03a423e2d9ec7dabef51fdc86a00827fca741d1627039ff25b"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__combat.json"
+hash = "2b93d57df0f5e746e93f781cf45ea734cf0aefcde825eb191e33eb16669f69c4"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__food_and_drinks.json"
+hash = "0824a5b5f912452afe9e3a5282b0402f46ffda11c8734cfc950e871b1e8adb83"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__functional_blocks.json"
+hash = "cc616e80d486b511cf72a7cbc66f54a6fe726ec87734eae08c446e3a66a25be7"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__ingredients.json"
+hash = "922ff0ddb7aeffd30bba1fc8a8287fc7777f43227ca62e8756556020c49c40e3"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__natural_blocks.json"
+hash = "44b3a0035ea274611f275bcd051bab806a9bda8ffaf66a8bfae2254631783ea4"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__redstone_blocks.json"
+hash = "352ac329a2a694bafab137e7337010767fca0b5f225d3663384e0ac1fda8e7da"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__spawn_eggs.json"
+hash = "53a8f7cec91f260106baa69acd142299081f4f7414374162273ca91ec1909515"
+
+[[files]]
+file = "config/neutrontools/tab_items/minecraft__tools_and_utilities.json"
+hash = "6abdac5727ca04255ddb09e8bdf5c21dfb7338004931b4b537f53763b322a6d5"
+
+[[files]]
+file = "config/neutrontools/tab_items/mowziesmobs__mowziesmobs_tab.json"
+hash = "aab45ba1ba7bd2ee2f3f06c4e575335ab57a0efa4182373ac0feb6c747afbb93"
+
+[[files]]
+file = "config/neutrontools/tab_items/northstar__blocks.json"
+hash = "0323cc83df7045db57186371721f76ecb9ea8f2a7382e672e74f0b0e470b0f29"
+
+[[files]]
+file = "config/neutrontools/tab_items/northstar__items.json"
+hash = "27493c1cf4bada4ebb4de35a3677afcf8f96025b95bef2b5618414801e4d420f"
+
+[[files]]
+file = "config/neutrontools/tab_items/northstar__tech.json"
+hash = "97b47e7d81e6fd7e04af13fca53c7474b9f11430df5d5f033b7911330d6626ac"
+
+[[files]]
+file = "config/neutrontools/tab_items/railways__main.json"
+hash = "1b9f4467198394551133f1c55bcbac4dcf24de9d3731230c975c2834ce241f0c"
+
+[[files]]
+file = "config/neutrontools/tab_items/railways__palettes.json"
+hash = "b2a9959cfed77195ea45357ac926a7639aa198d94c2396dfd8af7a771bcffdad"
+
+[[files]]
+file = "config/neutrontools/tab_items/railways__tracks.json"
+hash = "1fee297d9658e22f311ee709b1f7599f4fdc74552072f1e44cd1258f65e42459"
+
+[[files]]
+file = "config/neutrontools/tab_items/waystones__waystones.json"
+hash = "17e3c302aa9f905f21e11a856fb0dc64131c89b4f5ea840a8be9ae8108cf0165"
 
 [[files]]
 file = "config/neutrontools/unbreakable_items.json"
@@ -15177,11 +15469,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]

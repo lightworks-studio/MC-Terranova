@@ -1,0 +1,12 @@
+{
+  "create:palettes": {
+    "tab_name_key": "palettes",
+    "items_to_add": [
+      {
+        "after": "create:copycat_step",
+        "match_name": ".*copycat.*"
+      }
+    ],
+    "items_to_remove": []
+  }
+}

@@ -1,7 +1,9 @@
 {
   "farmersdelight:farmersdelight": {
     "tab_name_key": "cooking",
-    "tab_icon": { "name": "farmersdelight:stove" },
+    "tab_icon": {
+      "name": "farmersdelight:stove"
+    },
     "items_to_add": [
       {
         "match_name": "farmersdelight:.*"
@@ -10,6 +12,9 @@
     "items_to_remove": [
       {
         "match_name": "farmersdelight:.*(net|rug|mat|cabinet|rope|canvas|sign|tatami).*"
+      },
+      {
+        "match_name": ".*cabinet"
       }
     ]
   }

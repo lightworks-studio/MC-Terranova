@@ -1,0 +1,27 @@
+{
+  "tab": "northstar:tech",
+  "names": [
+    "northstar:telescope",
+    "northstar:astronomy_table",
+    "northstar:iron_cogwheel",
+    "northstar:iron_large_cogwheel",
+    "northstar:solar_panel",
+    "northstar:combustion_engine",
+    "northstar:circuit_engraver",
+    "northstar:electrolysis_machine",
+    "northstar:atmospheric_concentrator",
+    "northstar:oxygen_filler",
+    "northstar:oxygen_sealer",
+    "northstar:oxygen_detector",
+    "northstar:temperature_regulator",
+    "northstar:large_fan",
+    "northstar:ice_box",
+    "northstar:rocket_station",
+    "northstar:rocket_controls",
+    "northstar:auto_lander",
+    "northstar:jet_engine",
+    "northstar:computer_rack",
+    "northstar:titanium_space_door",
+    "northstar:interplanetary_navigator"
+  ]
+}

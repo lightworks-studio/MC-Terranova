@@ -10,10 +10,16 @@
   "itemGroup.neutrontools.electrical": "Electrical",
   "itemGroup.neutrontools.diesel_generators": "Diesel",
   "itemGroup.neutrontools.railways": "Railway",
-  "itemGroup.neutrontools.all_wood": "Wood",
+  "itemGroup.neutrontools.all_wood": "Wood & Timber",
   "itemGroup.neutrontools.roofs": "Roofs",
   "itemGroup.neutrontools.cooking": "Cooking",
   "itemGroup.railways_palettes": "Palettes II",
   "itemGroup.neutrontools.simulated": "Simulated",
-  "itemGroup.neutrontools.cannons": "Cannons"
+  "itemGroup.neutrontools.cannons": "Cannons",
+  "itemGroup.neutrontools.stone_and_masonry": "Stone & Masonry",
+  "itemGroup.neutrontools.decorations": "Decorations",
+  "itemGroup.neutrontools.plants_and_foliage": "Plants & Foliage",
+  "itemGroup.neutrontools.armor_and_accessories": "Armor & Accessories",
+  "itemGroup.neutrontools.gadgets_and_utilities": "Gadgets & Utilities",
+  "itemGroup.neutrontools.ores_and_materials": "Ores & Materials"
 }

@@ -1,0 +1,19 @@
+{
+  "minecraft:spawn_eggs": {
+    "items_to_add": [
+      {
+        "match_tab": "aether:spawn_eggs"
+      },
+      {
+        "match_name": "deeperdarker:.*spawn_egg"
+      },
+      {
+        "match_name": "northstar:.*spawn_egg"
+      },
+      {
+        "match_name": ".*:.*spawn_egg"
+      }
+    ],
+    "items_to_remove": []
+  }
+}

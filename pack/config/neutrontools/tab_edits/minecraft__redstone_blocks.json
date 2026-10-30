@@ -1,0 +1,42 @@
+{
+  "minecraft:redstone_blocks": {
+    "items_to_add": [
+      {
+        "names": [
+          "aether:enchanted_gravitite",
+          "aether:holystone_button",
+          "aether:holystone_pressure_plate",
+          "aether:skyroot_button",
+          "aether:skyroot_door",
+          "aether:skyroot_fence_gate",
+          "aether:skyroot_pressure_plate",
+          "aether:skyroot_trapdoor",
+          "deeperdarker:black_sculk_transmitter",
+          "deeperdarker:bloom_button",
+          "deeperdarker:bloom_pressure_plate",
+          "deeperdarker:bloom_trapdoor",
+          "deeperdarker:blue_sculk_transmitter",
+          "deeperdarker:brown_sculk_transmitter",
+          "deeperdarker:cyan_sculk_transmitter",
+          "deeperdarker:echo_button",
+          "deeperdarker:echo_pressure_plate",
+          "deeperdarker:echo_trapdoor",
+          "deeperdarker:gray_sculk_transmitter",
+          "deeperdarker:green_sculk_transmitter",
+          "deeperdarker:light_blue_sculk_transmitter",
+          "deeperdarker:light_gray_sculk_transmitter",
+          "deeperdarker:lime_sculk_transmitter",
+          "deeperdarker:magenta_sculk_transmitter",
+          "deeperdarker:orange_sculk_transmitter",
+          "deeperdarker:pink_sculk_transmitter",
+          "deeperdarker:purple_sculk_transmitter",
+          "deeperdarker:red_sculk_transmitter",
+          "deeperdarker:sculk_transmitter",
+          "deeperdarker:white_sculk_transmitter",
+          "deeperdarker:yellow_sculk_transmitter"
+        ]
+      }
+    ],
+    "items_to_remove": []
+  }
+}

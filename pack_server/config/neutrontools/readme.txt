@@ -1,6 +1,6 @@
 ================================================================================
  NeutronTools configuration - Terranova pack
- Last updated: 2026-09-20
+ Last updated: 2026-10-29
 ================================================================================
 
 GOAL
@@ -22,11 +22,13 @@ cataclysm:cataclysm_block, escalated, kubejs, catools, numismatics, aeroworks).
 
 Disabled tabs no longer appear in the creative bar (the mod removes them from
 the bar population). Their items are still registered and now routed into the
-vanilla tabs via tab_edits/minecraft.json.
+vanilla tabs via the per-tab files in tab_edits/.
 
-VANILLA TAB ROUTING (tab_edits/minecraft.json)
+VANILLA TAB ROUTING (tab_edits/minecraft__*.json)
 -----------------------------------------------
-This is the ONLY file that edits minecraft:* tabs (single source of truth).
+Each minecraft:* tab has its own file under tab_edits/. Every target tab is
+still defined in exactly one file. Split files use <namespace>__<path>.json;
+older single-tab files keep their original names.
 
   minecraft:building_blocks       174 items added (79 Aether + 95 DeeperDark)
   minecraft:natural_blocks        Aether via match_tab (30, from aether:natural_blocks
@@ -60,6 +62,10 @@ There are TWO copies of this directory:
   1. pack/config/neutrontools/          <- source of truth, git tracked
   2. minecraft/config/neutrontools/     <- live copy the running game reads/writes
 
+tab_items/ is a split, human-readable snapshot of every tab's contents
+(one file per tab plus all_tabs.json). NeutronTools does not read this
+directory; the old combined tab_items.json has been removed.
+
 To ship changes: run build.sh at the instance root (or copy the edited files
 from pack/ into minecraft/config/neutrontools/). Both copies are kept in sync.
 
@@ -81,10 +87,11 @@ survived (e.g. building_blocks only received DeeperDark; natural/functional/
 combat/food/ingredients received NOTHING from aether.json/deeperdarker.json).
 That is the fix history behind this task.
 
-RESOLUTION: every minecraft:* tab is defined in exactly ONE tab_edits file
-(minecraft.json). aether.json and deeperdarker.json were deleted after their
-rules were merged into minecraft.json. The verify step below now asserts there
-is never more than one file per target tab.
+RESOLUTION: every target tab is defined in exactly ONE tab_edits file.
+The old combined files (minecraft.json, decoration.json, space.json,
+create_mechanical.json) were split into one file per target tab, and
+aether.json/deeperdarker.json were deleted after their rules were merged.
+The verify step below asserts there is never more than one file per target tab.
 
 ABOUT THE "index" / "hide_old_tab" FIELDS
 ------------------------------------------
@@ -116,7 +123,7 @@ VERIFICATION (2026-09-20)
   run applied edits ONLY to building_blocks - exactly matching the predicted
   last-file-wins behaviour, confirming the root cause.
 
-INTERSTELLAR / NORTHSTAR TABS (space.json)
+INTERSTELLAR / NORTHSTAR TABS (tab_edits/northstar__*.json)
 ------------------------------------------
 The Northstar ("space") tabs are organised as space / space_2 / space_3:
   northstar:blocks  -> space

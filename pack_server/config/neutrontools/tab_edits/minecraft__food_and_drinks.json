@@ -1,0 +1,22 @@
+{
+  "minecraft:food_and_drinks": {
+    "items_to_add": [
+      {
+        "names": [
+          "aether:blue_berry",
+          "aether:blue_gummy_swet",
+          "aether:candy_cane",
+          "aether:enchanted_berry",
+          "aether:gingerbread_man",
+          "aether:golden_gummy_swet",
+          "aether:healing_stone",
+          "aether:white_apple",
+          "deeperdarker:angler_fish",
+          "deeperdarker:bloom_berries",
+          "deeperdarker:cooked_angler_fish"
+        ]
+      }
+    ],
+    "items_to_remove": []
+  }
+}

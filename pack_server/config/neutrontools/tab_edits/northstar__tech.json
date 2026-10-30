@@ -1,0 +1,11 @@
+{
+  "northstar:tech": {
+    "tab_name_key": "space",
+    "items_to_add": [
+      {
+        "match_tab": "northstar:items"
+      }
+    ],
+    "items_to_remove": []
+  }
+}

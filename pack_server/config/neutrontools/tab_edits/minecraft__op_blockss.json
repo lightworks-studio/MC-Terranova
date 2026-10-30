@@ -1,0 +1,19 @@
+{
+  "minecraft:op_blockss": {
+    "items_to_add": [
+      {
+        "name": "terranova:worldedit_wand"
+      },
+      {
+        "name": "terranova:worldedit_nav"
+      },
+      {
+        "match_name": ".*creative.*"
+      },
+      {
+        "match_tab": "catools:main"
+      }
+    ],
+    "items_to_remove": []
+  }
+}
