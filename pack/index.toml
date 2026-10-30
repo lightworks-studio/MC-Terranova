@@ -9653,6 +9653,14 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/l
 hash = "52d8784394bcbca72a64fa9b653507b3aa47e3a6c011390b9f0beb04f73dc328"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/heat_dust.json"
+hash = "c461a3964084fcb8149936e8e1004c525039706812616a966a2bafbe6abb1706"
+
+[[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/heat_tile.json"
+hash = "5c8523e9f0239a64b2b59a1a6e9e09062e1283c4b8555cdf58f5c2824dcf7034"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/terranova/recipe/void_core_dust.json"
 hash = "df233a93353412ee6ab90effd57c9411449252ec2ba77fde2bbaadb75a66ffda"
 

@@ -1,0 +1,32 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "terranova:monstrous_dust"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "results": [
+    {
+      "id": "terranova:heat_tile"
+    },
+    {
+      "id": "terranova:heat_tile"
+    }
+  ],
+  "heat_requirement": "superheated"
+}
