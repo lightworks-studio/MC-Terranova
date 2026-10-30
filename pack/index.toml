@@ -602,7 +602,7 @@ hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
-hash = "b551f5c1b3e943f1b51bf69d2508cef24f7f5979986940b8cc3c63a6a0792711"
+hash = "1caaaf25c287ec390d04946a59db52962caf1379d70f201cf9156be7baf43c15"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
@@ -642,7 +642,7 @@ hash = "30898cf0b72a3add558c94dfc7d560ace7e13a9c1ba720f4ec1b43ed69de35a8"
 
 [[files]]
 file = "config/neutrontools/new_tabs/ores_and_materials.json"
-hash = "7e508bd2bfa6b82f1925e533d9bd05af3e03c9dcd824465c22f06559fcb03697"
+hash = "1eda4433e1b6da27521b7d196379465100331d1a5c8c0104fe58707b1b023f32"
 
 [[files]]
 file = "config/neutrontools/new_tabs/plants_and_foliage.json"
@@ -14314,7 +14314,7 @@ hash = "99be962bcf199ba1403b305b4ef25963f7fb53a1a3e22474a993fe64d6a0902a"
 
 [[files]]
 file = "config/neutrontools/readme.txt"
-hash = "bb9dd2219c9943076dcb6b5acf5264468ca453395bc0949e5151ed8337914ec5"
+hash = "8439bad6fdc1dc157f98b93ef37b856d4d5c03f582764c69201ac12c3a544747"
 
 [[files]]
 file = "config/neutrontools/tab_edits/bosses.json"

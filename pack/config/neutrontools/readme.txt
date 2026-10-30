@@ -64,7 +64,7 @@ tabs are intentional.
   everycomp:everycomp                Wood & Timber (421 explicit names, plus
                                      the tab's original everycomp rules)
   neutrontools:stone_and_masonry     Stone & Masonry (493)
-  neutrontools:ores_and_materials    Ores & Materials (81)
+  neutrontools:ores_and_materials    Ores & Materials (159; includes all 78 Northstar ores)
   neutrontools:decorations           Decorations (458; all signs, all 32 stool and
                                      32 seat colours; stairs/slabs/glass panes removed)
   neutrontools:plants_and_foliage    Plants & Foliage (129)
