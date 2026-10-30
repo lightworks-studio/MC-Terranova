@@ -602,7 +602,7 @@ hash = "f2f92452732e466b77da8cf21728b94dafa9e69068912add2e040b428afc1eeb"
 
 [[files]]
 file = "config/neutrontools/disabled_items.json"
-hash = "469e87086886203d64dbda9827eb18fc904638fd324ed200a765a78c590164e4"
+hash = "a5d9e344ace931d8867a8ce9866fb4792681be0aa9eed04a0574ab2da3e0180e"
 
 [[files]]
 file = "config/neutrontools/disabled_tabs.json"
@@ -657,16 +657,16 @@ file = "config/neutrontools/packs_required/data_packs/terranova/data/create/reci
 hash = "181cdd36a52c53272c5228fb6f4ef938e1e279132f0115323569c0a9fdcef3ed"
 
 [[files]]
+file = "config/neutrontools/packs_required/data_packs/terranova/data/create_connected/recipe/crafting/kinetics/sequenced_pulse_generator.json"
+hash = "ae3b4d6f5d3520f5d096a45aaa2eea3d8f46aa86bb78cc0f3a1ae22433eb6402"
+
+[[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/create_dragons_plus/recipe/colorTest.json"
 hash = "c52070262f62917254f9d3f2dd03bed42bc325c762da1f5eae3788ad9aaad3e9"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/create_dragons_plus/recipe/craftTest.json"
 hash = "bc382415843ce17f2d24e0b53bba2fea588f9dc50c229ee09f98d0d3e3c50f36"
-
-[[files]]
-file = "config/neutrontools/packs_required/data_packs/terranova/data/createpropulsion/recipe/redstone_transmission.json"
-hash = "ab8c9f25e2693dfaccdeb09d36a438d7bd0d8f00b5b2c691d7a41cad82f85aef"
 
 [[files]]
 file = "config/neutrontools/packs_required/data_packs/terranova/data/fuegon/painting_variant/bridge.json"

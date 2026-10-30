@@ -114,6 +114,10 @@
     "createdieselgenerators:tan_cement",
     "createdieselgenerators:teal_cement",
     "createdieselgenerators:verdant_cement",
+    "create_connected:kinetic_bridge",
+    "create_connected:shear_pin",
+    "create_connected:cross_connector",
+    "create_connected:control_chip",
 
     "railways:limestone_brass_wrapped_locometal",
     "railways:limestone_brass_wrapped_locometal_boiler",
